@@ -123,7 +123,7 @@ erDiagram
 ## 4. 제출 파일 구성
 
 ```
-codyssey-b5-1/
+codyssey-b6-1/
 ├── schema.sql          # CREATE TABLE (스키마 정의)
 ├── data.sql            # INSERT (샘플 데이터)
 ├── queries.sql         # 핵심 쿼리 15개
